@@ -15,9 +15,6 @@ To create, list, and manage Virtual Machines in Google Cloud using Cloud Shell (
 4. Verified the VM in Compute Engine console.
 5. (Optional) Stopped or deleted the VM using Cloud Shell.
 
-## Commands Used
-(See commands.txt file)
-
 ## Proof (Screenshots)
 - cloudshell-open.png → Cloud Shell opened in GCP
 - cloudshell-list-vms.png → Listing VMs using gcloud
