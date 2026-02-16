@@ -1,0 +1,10 @@
+sudo su
+lsblk
+parted/dev/sda
+resizeparT
+Fix 
+1 
+Yes
+100%
+quit 
+lsblk
